@@ -1,0 +1,43 @@
+.date{
+    background-color:silver;
+    word-spacing: 12vh;
+    padding: 20px;
+    border-color: black;
+    margin-left: 30px;
+    border-color: black;
+    
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 25vh 100vh;
+    column-gap: 5vh;
+    border: 5vh;
+    border-radius: 25px;
+    background-color: black;
+    padding: 5vh;
+    margin: 5vh;
+
+    
+}
+
+.expenses{
+    background-color: silver;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
+
+.expenseTitle{
+    font-size: 5vh;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20%;
+    
+}
+
+.expenseAmount{
+    padding-left: 20%;
+    align-items: center;
+    justify-content: center;
+}

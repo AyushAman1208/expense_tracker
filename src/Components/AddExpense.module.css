@@ -1,0 +1,15 @@
+.body{
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    padding: 4vh;
+}
+
+.title,.amount,.date{
+    
+    justify-content: center;
+    margin-bottom:1vh;
+    align-items: center;
+    
+}
+
